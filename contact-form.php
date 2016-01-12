@@ -3,7 +3,7 @@
 //currently up to step 7
 
 //use https://rogerdudler.github.io/git-guide/ for easy
-
+//use https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 //form data
 if(isset($_POST) ) {
 	//form validation variables    
