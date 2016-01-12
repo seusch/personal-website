@@ -2,6 +2,7 @@
 // use the tutorial from http://code.tutsplus.com/tutorials/build-a-neat-html5-powered-contact-form--net-20426
 //currently up to step 7
 
+//use https://rogerdudler.github.io/git-guide/ for easy
 
 //form data
 if(isset($_POST) ) {
