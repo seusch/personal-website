@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Sara Eusch Designs</title>
+<!--styles-->
+<link rel="stylesheet" type="text/css" href="styles/styles.css" >
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<!--scripts-->
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="scripts/script.js" ></script>
+
+</head>
+
+<body>
+      
+ <div id="wrapper">
+ 
+<header id="banner" >
+       <hgroup>
+        <h1><span>Sara Eusch Designs</span></h1>
+       </hgroup>
+</header>
+
+<div>
+    <nav id="nav" >
+    	<ul>
+          	<li ><a href="index.html">Portfolio</a>  </li>
+            <li ><a href="about.html">About</a></li>
+            <li ><a href="contact.html" id="current">Contact</a></li>     
+   		 </ul>
+    </nav>
+</div>
+
+ <article id="main" class="contact">         
+<h2> Lets Work Together! </h2>
+    
+<div>
+ 
+     <p>Feel free to send any questions or comments through the comment form below, or you can connect with me on the of the social media links at the bottom of the page.</p>
+
+</div><!--/gallery-->
+
+    <form id="contact-form" method="post" action="contact-form.php">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" value="" placeholder="Please enter your name" autofocus="autofocus"/>
+        
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" value="" placeholder="johndoe@example.com" />
+                
+        <label for="message">Message:</label>
+        <textarea id="message" name="comment" placeholder="Please enter a message greater than 10 charcters" ></textarea>
+        
+        <span id="loading"></span>
+        <input type="submit" value="Submit" id="submit-button" />
+    </form>
+	
+	
+	
+</article>
+    <!--/main--> 
+<footer id="footer">
+
+	<ul id="contactnav">
+        <li id="behance"><a href="http://www.behance.net/seusch" target="_blank">
+        <img style="border:0;" src="images/behance.png" alt="behance" target="_blank" width="30" height="30" ></a></li>
+       	<li id="linkedin"><a href="https://www.linkedin.com/in/seusch" target="_blank">
+        <img style="border:0;" src="images/linkedin.png" alt="linkedin" width="30" height="30" ></a> </li>
+        <li id="twitter"><a href="https://twitter.com/seusch" target="_blank">
+        <img style="border:0;" src="images/twitter.png" alt="linkedin" width="30" height="30"  ></a> </li>
+    </ul>
+        
+   <p>&copy; 2013-2016 - Sara Eusch Designs - All Rights Reserved<p>
+</footer>
+     
+ </div>
+  <!--/wrapper--> 
+ 
+</body>
+
+</html>
