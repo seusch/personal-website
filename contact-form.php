@@ -47,7 +47,7 @@ if(isset($_POST) ) {
 		//email variables
 		$to = 'seusch@charter.net';
 		/* $to = 'seusch@charter.net';*/
-		$subject = 'Site Comment';//email header
+		$subject = 'Inquiry from your site';//email header
 		
 		//if you're using a windows server, uncomment the following line
 		//ini_set("sendmail_from","info@example.com");

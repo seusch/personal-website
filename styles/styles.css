@@ -74,7 +74,7 @@ visibility: hidden;
 #nav {
 background-color: #FFFFFF;
 list-style-type: none;
-color: #82C2DB;
+color: #000000;
 text-align: center;
 }
 
@@ -92,7 +92,7 @@ text-align: center;
 
 #nav li a {
     display: block;
-    color: #FFFFFF;
+    color: #000000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -101,7 +101,7 @@ text-align: center;
 }
 /* Nav current */
 #nav li a:link{
-	color:#FFFFFF;
+	color:#000000;
 }
 
 #nav li a:visited {
@@ -179,6 +179,8 @@ label{
 	padding: 3px;
 	margin-left: 25px;
 }
+
+
 
 /* Footer Styles -------------------- */
 #footer {
