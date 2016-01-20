@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,25 +39,24 @@
     
 <div>
  
-     <p>Feel free to send any questions or comments through the comment form below, or you can connect with me on the of the social media links at the bottom of the page.</p>
+     <p>Please pardon the dust while I get the contact form fully functioning. Feel free to reach out to me! Email me at <a href="mailto:seusch@charter.net?Subject=Hello%20again" target="_top">seusch@charter.net</a> or you can connect with me on the of the social media links at the bottom of the page.</p>
 
 </div><!--/gallery-->
 
-    <form id="contact-form" method="post" action="contact-form.php">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" value="" placeholder="Please enter your name" autofocus="autofocus"/>
-        
-        <label for="email">Email Address:</label>
-        <input type="email" id="email" name="email" value="" placeholder="johndoe@example.com" />
-                
-        <label for="message">Message:</label>
-        <textarea id="message" name="comment" placeholder="Please enter a message greater than 10 charcters" ></textarea>
-        
-        <span id="loading"></span>
-        <input type="submit" value="Submit" id="submit-button" />
-    </form>
-	
-	
+
+<form method='post' action="contact-form.php" id="contact-form">
+  Name: <input type='text' name='name' id='name' /><br />
+
+  Email: <input type='text' name='email' id='email' /><br />
+
+  Comment:<br />
+  <textarea name='comment' id='comment'></textarea><br />
+
+  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
+
+  <input type='submit' value='Post!' />  
+</form>
+
 	
 </article>
     <!--/main--> 

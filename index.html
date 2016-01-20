@@ -41,52 +41,55 @@
 		<div class="gallery"><!--gallery begin-->
 
 <!--project 1-->
-	<a href="images/portfolio image/fullsize-images/petpedia.png" data-lightbox="image-1" data-title="Petpedia"><img class="example-image" src="images/portfolio image/petpedia-thumb.png" alt="Designs: image 1 0f 16 thumb" width="100" height="100"></a>
+	<a href="images/portfolio image/fullsize-images/petpedia.png" data-lightbox="image-1" data-title="Petpedia"><img class="example-image" src="images/portfolio image/petpedia-thumb.png" alt="Designs: image 1 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 2-->
-<a href="images/portfolio image/fullsize-images/ar_full.jpg" data-lightbox="image-1" data-title="Harley-Davidson Annual Report"><img class="example-image" src="images/portfolio image/ar1_thumb.png" alt="Designs: image 2 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/ar_full.jpg" data-lightbox="image-1" data-title="Harley-Davidson Annual Report"><img class="example-image" src="images/portfolio image/ar1_thumb.png" alt="Designs: image 2 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 3-->
-<a href="images/portfolio image/fullsize-images/orientationleader-shirt.png" data-lightbox="image-1" data-title="UW-Milwaukee Orientation Leader T-shirt.(Summer 2014, photo feautring Orientation Leader Vintinita Goodman-Johnson)"><img class="example-image" src="images/portfolio image/orientationleader-shirt-thumg.png" alt="Designs: image 3 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/orientationleader-shirt.png" data-lightbox="image-1" data-title="UW-Milwaukee Orientation Leader T-shirt.(Summer 2014, photo feautring Orientation Leader Vintinita Goodman-Johnson)"><img class="example-image" src="images/portfolio image/orientationleader-shirt-thumg.png" alt="Designs: image 3 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 4-->
-<a href="images/portfolio image/fullsize-images/doodled.png" data-lightbox="image-1" data-title="Doodled: A card game I created that involves drawing and a whole lot of fun! Will you Doodle your way to Victory?!"><img class="example-image" src="images/portfolio image/doodled_thumb.png" alt="Designs: image 4 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/doodled.png" data-lightbox="image-1" data-title="Doodled: A card game I created that involves drawing and a whole lot of fun! Will you Doodle your way to Victory?!"><img class="example-image" src="images/portfolio image/doodled_thumb.png" alt="Designs: image 4 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 5-->
-<a href="images/portfolio image/fullsize-images/ebhs1.png" data-lightbox="image-1" data-title="Redesign of the Elmbrook Humane Society-Home and 1 Interior page"><img class="example-image" src="images/portfolio image/ebhs1_thumb.png" alt="Designs: image 5 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/ebhs1.png" data-lightbox="image-1" data-title="Redesign of the Elmbrook Humane Society-Home and 1 Interior page"><img class="example-image" src="images/portfolio image/ebhs1_thumb.png" alt="Designs: image 5 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 6-->
-<a href="images/portfolio image/fullsize-images/mop1.png" data-lightbox="image-1"  data-title="Methods of Printing. Designed, Edited and bound by myself. Final project for my Print Technology course at Southern IL University Carbondale"><img class="example-image" src="images/portfolio image/mop1_thumb.png" alt="Designs: image 6 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/mop1.png" data-lightbox="image-1"  data-title="Methods of Printing. Designed, Edited and bound by myself. Final project for my Print Technology course at Southern IL University Carbondale"><img class="example-image" src="images/portfolio image/mop1_thumb.png" alt="Designs: image 6 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 7-->
-<a href="images/portfolio image/fullsize-images/mop3.png" data-lightbox="image-1"  data-title="Methods of Printing-Website Version: Engraving Page"><img class="example-image" src="images/portfolio image/mop3_thumb.png" alt="Designs: image 7 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/mop3.png" data-lightbox="image-1"  data-title="Methods of Printing-Website Version: Engraving Page"><img class="example-image" src="images/portfolio image/mop3_thumb.png" alt="Designs: image 7 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 8-->
-<a href="images/portfolio image/fullsize-images/personal-branding.png"  data-lightbox="image-1" data-title="Personal Branding Set. Features business cards, letterhead and envelope design."><img class="example-image" src="images/portfolio image/personal-branding-thumb.png" alt="Designs: image 8 0f 15 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/personal-branding.png"  data-lightbox="image-1" data-title="Personal Branding Set. Features business cards, letterhead and envelope design."><img class="example-image" src="images/portfolio image/personal-branding-thumb.png" alt="Designs: image 8 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 9-->
-<a href="images/portfolio image/fullsize-images/ssc-recruitment.png"  data-lightbox="image-1" data-title="Recruitment Poster for the Student Success Center (2013)"><img class="example-image" src="images/portfolio image/recruitment2013-thumb.png" alt="Designs: image 9 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/ssc-recruitment.png"  data-lightbox="image-1" data-title="Recruitment Poster for the Student Success Center (2013)"><img class="example-image" src="images/portfolio image/recruitment2013-thumb.png" alt="Designs: image 9 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 10-->
-<a href="images/portfolio image/fullsize-images/Acrocats15.png" data-lightbox="image-1" data-title="Acrocats. Package design for cat toys"><img class="example-image" src="images/portfolio image/acrocats-thumb.png" alt="Designs: image 10 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/Acrocats15.png" data-lightbox="image-1" data-title="Acrocats. Package design for cat toys"><img class="example-image" src="images/portfolio image/acrocats-thumb.png" alt="Designs: image 10 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 11-->
-<a href="images/portfolio image/fullsize-images/taimg.png" data-lightbox="image-1" data-title="Type as Image Poster"><img class="example-image" src="images/portfolio image/TypeAsImage-thumb.gif" alt="Designs: image 11 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/taimg.png" data-lightbox="image-1" data-title="Type as Image Poster"><img class="example-image" src="images/portfolio image/TypeAsImage-thumb.gif" alt="Designs: image 11 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 12-->
-<a href="images/portfolio image/fullsize-images/SSC_MissionStatement.png"  data-lightbox="image-1" data-title="UW-Milwaukee Student Success Center Rebranding"><img class="example-image" src="images/portfolio image/ssc-rebranding-thumb.png" alt="Designs: image 12 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/SSC_MissionStatement.png"  data-lightbox="image-1" data-title="UW-Milwaukee Student Success Center Rebranding"><img class="example-image" src="images/portfolio image/ssc-rebranding-thumb.png" alt="Designs: image 12 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 13-->
-<a href="images/portfolio image/fullsize-images/AGordonPublishing.png"  data-lightbox="image-1" data-title="A. Gordon Publishing"><img class="example-image" src="images/portfolio image/agordonpublishing-thumb.png" alt="Designs: image 13 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/AGordonPublishing.png"  data-lightbox="image-1" data-title="A. Gordon Publishing"><img class="example-image" src="images/portfolio image/agordonpublishing-thumb.png" alt="Designs: image 13 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 14-->
-<a href="images/portfolio image/fullsize-images/HighlightingHarambee.png"  data-lightbox="image-1" data-title="Highlighting Harambee"><img class="example-image" src="images/portfolio image/highlightingharambee-thumb.png" alt="Designs: image 14 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/HighlightingHarambee.png"  data-lightbox="image-1" data-title="Highlighting Harambee"><img class="example-image" src="images/portfolio image/highlightingharambee-thumb.png" alt="Designs: image 14 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 15-->
-<a href="images/portfolio image/fullsize-images/adoptlove_poster.png"  data-lightbox="image-1" data-title="Adopt Love. Created and submitted in the HOW Poster Design Awards competition."><img class="example-image" src="images/portfolio image/adoptlove_thumb.png" alt="Designs: image 15 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/adoptlove_poster.png"  data-lightbox="image-1" data-title="Adopt Love. Created and submitted in the HOW Poster Design Awards competition."><img class="example-image" src="images/portfolio image/adoptlove_thumb.png" alt="Designs: image 15 0f 17 thumb" width="100" height="100"></a>
 
 <!--project 16-->
-<a href="images/portfolio image/fullsize-images/PegEsBears.jpg"  data-lightbox="image-1" data-title="Peg E's Bears: Business Card and Swing tags"><img class="example-image" src="images/portfolio image/PegEsBears_thumb.png" alt="Designs: image 16 0f 16 thumb" width="100" height="100"></a>
+<a href="images/portfolio image/fullsize-images/PegEsBears.jpg"  data-lightbox="image-1" data-title="Peg E's Bears: Business Card and Swing tags"><img class="example-image" src="images/portfolio image/PegEsBears_thumb.png" alt="Designs: image 16 0f 17 thumb" width="100" height="100"></a>
+
+<!--project 17-->
+<a href="images/portfolio image/fullsize-images/personal_rebrand.png"  data-lightbox="image-1" data-title="Personal rebranding. Features business cards, letterhead and envelope design."><img class="example-image" src="images/portfolio image/personal_rebrand_thumb.png" alt="Designs: image 17 0f 117 thumb" width="100" height="100"></a>
 
 		</div> <!--/gallery-->
 
