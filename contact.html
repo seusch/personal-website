@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
 <title>Sara Eusch Designs</title>
 <!--styles-->
 <link rel="stylesheet" type="text/css" href="styles/styles.css" >
@@ -39,22 +39,27 @@
     
 <div>
  
-     <p>Please pardon the dust while I get the contact form fully functioning. Feel free to reach out and email me at <a href="mailto:seusch@charter.net?Subject=Hello%20again" target="_top">seusch@charter.net</a> or you can connect with me on the of the social media links at the bottom of the page.</p>
+     <p>Feel free to reach out to me by filling out the comment form below or you can connect with me on the of the social media links at the bottom of the page.</p>
 
 </div><!--/gallery-->
 
 
-<form  action="contact-form.php" method='post' id="contact-form">
-  Name: <br /> <input type='text' name='name' id='name' /><br />
+<form method="post" action="acknowledge.php">
 
-  Email: <br /> <input type='text' name='email' id='email' /><br />
+  <label for="name">Name:</label>
+  <input type="text" name="name" id="name">
 
-  Comment:<br />
-  <textarea name='comment' id='comment'></textarea><br />
 
-  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
+  <label for="email">Email:</label>
+  <input type="email" name="email" id="email">
 
-  <input type='submit' value='Submit' />  
+
+  <label for="comments">Comments:</label>
+  <textarea name="comments" id="comments"></textarea>
+
+
+  <input type="submit" name="send" value="Send Message">
+
 </form>
 
 	
